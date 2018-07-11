@@ -1,0 +1,14 @@
+target
+.project
+.classpath
+.settings
+.idea
+.vscode
+*.iml
+*.chain
+*.spvchain
+*.o
+*.d
+*.d.*
+*.log
+PoW
